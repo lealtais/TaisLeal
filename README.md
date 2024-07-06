@@ -47,12 +47,14 @@ Técnica em Informática | IFSP Cubatão (2019)
 Tecnologia em Sistemas para Internet | Fatec Rubens Lara (em andamento)
 Contato 📫
 Email: tais.leal@example.com
-LinkedIn: linkedin.com/in/tais-leal-almeida
+
+
+LinkedIn:<p><img src="https://em-content.zobj.net/source/google/350/man-office-worker-medium-skin-tone_1f468-1f3fd-200d-1f4bc.png" title="Linkedin" alt="Linkedin" width="24" height="24"> <a href="https://www.linkedin.com/in/tais-leal" target="_blank" >Linkedin</a></p> linkedin.com/in/tais-leal-almeida
 GitHub: github.com/seu-usuario
 Estatísticas do GitHub 🚀
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lealtais&show_icons=true&theme=radical)
+![Tais](https://github-readme-stats.vercel.app/api/top-langs/?username=lealtais&theme=blue-green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lealtais&layout=compact&theme=radical)
+</div>
 
 
 Vamos Conectar! 🚀
