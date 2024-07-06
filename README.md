@@ -50,9 +50,10 @@ Email: tais.leal@example.com
 LinkedIn: linkedin.com/in/tais-leal-almeida
 GitHub: github.com/seu-usuario
 Estatísticas do GitHub 🚀
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lealtais&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lealtais&layout=compact&theme=radical)
+
 
 Vamos Conectar! 🚀
 Estou sempre aberta a novas oportunidades e colaborações. Se você está procurando alguém apaixonado por tecnologia e ansioso para aprender e contribuir, não hesite em me contatar!
